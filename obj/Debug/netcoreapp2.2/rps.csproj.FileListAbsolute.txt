@@ -1,0 +1,11 @@
+C:\Users\trent\Desktop\C#\rps\obj\Debug\netcoreapp2.2\rps.csprojAssemblyReference.cache
+C:\Users\trent\Desktop\C#\rps\obj\Debug\netcoreapp2.2\rps.csproj.CoreCompileInputs.cache
+C:\Users\trent\Desktop\C#\rps\obj\Debug\netcoreapp2.2\rps.AssemblyInfoInputs.cache
+C:\Users\trent\Desktop\C#\rps\obj\Debug\netcoreapp2.2\rps.AssemblyInfo.cs
+C:\Users\trent\Desktop\C#\rps\bin\Debug\netcoreapp2.2\rps.deps.json
+C:\Users\trent\Desktop\C#\rps\bin\Debug\netcoreapp2.2\rps.runtimeconfig.json
+C:\Users\trent\Desktop\C#\rps\bin\Debug\netcoreapp2.2\rps.runtimeconfig.dev.json
+C:\Users\trent\Desktop\C#\rps\bin\Debug\netcoreapp2.2\rps.dll
+C:\Users\trent\Desktop\C#\rps\bin\Debug\netcoreapp2.2\rps.pdb
+C:\Users\trent\Desktop\C#\rps\obj\Debug\netcoreapp2.2\rps.dll
+C:\Users\trent\Desktop\C#\rps\obj\Debug\netcoreapp2.2\rps.pdb
